@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_label">Herramientas para Explorar</string>
+    <string name="app_name">Herramientas de Supervivencia</string>
+    <string name="default_direction">Te Diriges...</string>
+    <string name="heading_text">Te Diriges a %s</string>
+    <string name="asr_prompt">A donde quieres ir</string>
+    <string name="asr_ask_again">Toca la brújula para dar nuevas direcciones.</string>
+    <string name="asr_error">Debe decir Cardinal_Punto grados, ejemplo "Norte 10"</string>
+    <string name="asr_download_title">No Disponible</string>
+    <string name="asr_download_msg">No hay una aplicación de reconocimiento instalada. ¿Desea descargar uno??</string>
+    <string name="location_north">%s N</string>
+    <string name="location_south">%s S</string>
+    <string name="location_east">%s E</string>
+    <string name="location_west">%s W</string>
+
+
+    <string name="Acelerometro">Acelerometro</string>
+    <string name="Latigo">Latigo</string>
+    <string name="Giroscopio">Giroscopio</string>
+    <string name="Luz">Luz</string>
+    <string name="Proximidad">Proximidad</string>
+    <string name="Anterior">Anterior</string>
+    <string name="thermometer">thermometer</string>
+    <string name="Brujula">Brujula</string>
+    <string name="activity_main">activity_main</string>
+    <string name="Regresar">Regresar</string>
+
+    <string name="Camara">Camara</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">Captura las fotos </string>
+
+
+    <string name="Manuales">Manuales</string>
+    <string name="tab_text_1">Primeros Auxilios</string>
+    <string name="tab_text_2">Construccion</string>
+    <string name="hello_blank_fragment">primeros auxilios </string>
+    <string name="construccion">planos </string>
+
+
+    <string name="tituloaux">Cortaduras y heridas penetrantes </string>
+    <string name="par1">
+Los síntomas incluyen:\n
+        \n*Sangrado
+        \n*Problemas con el funcionamiento o sensibilidad por debajo del sitio de la herida
+        \n*Dolor </string>
+
+
+    <string name="par2">
+        Se puede presentar infección en caso de algunas cortaduras y heridas penetrantes (punzantes).\n
+        Las siguientes heridas son más propensas a resultar infectadas:
+        \n*Mordeduras o picaduras
+        \n*Punciones
+        \n*Lesiones por aplastamiento
+        \n*Heridas sucias
+        \n*Heridas en los pies
+        \n*Heridas que no se trataron con rapidez
+    </string>
+    <string name="par3">
+        EN CASO DE CORTADURAS MENORES:
+        \n*Lávese las manos con jabón o un limpiador antibacteriano para prevenir una infección.
+        \n*Luego, lave completamente la herida con agua y un jabón suave.
+        \n*Use presión directa para detener el sangrado.
+        \n*Aplique un ungüento antibacteriano y un vendaje limpio que no se pegue a la herida.
+    </string>
+ <string name="par4">
+
+     No se debe:
+ \nNO suponga que una herida menor está limpia porque no se pueden ver desechos ni suciedad dentro de ella. Lávela siempre.
+ \nNO respirar sobre una herida abierta.
+ \nNO trate de limpiar una herida extensa, especialmente después de que el sangrado esté bajo control.
+ \nNO retire un objeto largo o profundamente incrustado. Busque atención médica.
+ \nNO hurgue ni retire los restos de una herida. Busque atención médica.
+ \nNO reintroduzca partes expuestas del cuerpo. Cúbralas con material limpio hasta que llegue la ayuda médica.
+ </string>
+
+<string name="titulofogata">Construir Fogata</string>
+    <string name="par5">
+Lleva yesca:\n
+        Para encender una fogata efectiva, debes comenzar con yesca, que son los materiales más pequeños con los que se puede encender un fuego y los que se queman más fácilmente. La yesca debe estar seca, así que lo mejor es traerla de casa en lugar de buscarla en el lugar del campamento. Puedes usar una variedad de artículos domésticos como yesca, como los siguientes:
+        \n*virutas de madera
+        \n*fajos de papeles de periódico
+        \n*cartón
+        \n*cera
+        \n*pelusas de secadora
+        \n*palos de fuego comerciales
+    </string>
+    <string name="par6">
+        Recolecta madera de encendido:
+       \n Para mantener el fuego ardiendo, necesitarás añadir a la yesca un poco de material más sustancial. La madera de encendido es más grande que los materiales de yesca pero no tanto que extinga las llamas del fuego. Buscar alrededor del campamento pequeñas ramitas y ramas más grandes para usar como madera de encendido.
+\n*Elige ramas de un diámetro de entre 0,3 y 1,2 cm (1/8 a media pulgada) o de aproximadamente el grosor de un lápiz.
+\n*Tal como con la yesca, es importante que la madera de encendido esté seca. Si hay áreas húmedas en las ramas, usa una navaja de bolsillo para tallarlas y retirarlas cuidadosamente.
+
+    </string>
+
+    <string name="par7">
+        Recolecta leña.
+       \n *No debes arrancar ramas de los árboles para usarlas como leña o arruinarás los árboles en el área de campamento. En cambio, busca trozos que ya se hayan caído.
+       \n *Busca leña que se doble o se parta fácilmente. De esta forma, sabrás que está lo suficientemente seca como para arder en el fuego.
+       \n *No debes usar leña demasiado grande porque tomará mucho más tiempo para empezar a arder.
+       \n *Si no estás seguro sobre si la madera tiene el tamaño correcto, compárala con tu muñeca o tu antebrazo. Deben tener el mismo tamaño.
+
+    </string>
+
+    <string name="par8">
+        Empaca un encendedor. Una vez que tengas los materiales adecuados para construir la fogata, necesitarás algo para encenderla. Asegúrate de incluir algún tipo de encendedor en tu equipo de campamento de forma que puedas encender fácilmente el fuego.
+        Los fósforos regulares funcionan bien para encender un fuego pero es posible que prefieras usar un mechero. \n
+        *También puedes usar una varilla de ferrocerio como encendedor cuando estés de campamento. También conocida como encendedor de cazoleta, esta varilla genera una chispa que ayuda a encender los materiales para la fogata.
+    </string>
+
+
+    <string name="gps">Obtener Cordenadas</string>
+    <string name="gps1">Tus Cordenadas son </string>
+    <string name="gps2">Recalculando</string>
+</resources>
